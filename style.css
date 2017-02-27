@@ -121,16 +121,6 @@ video {
 	float: left;
 }
 
-#ascii-div {
-	display: block;
-	position: relative;
-	height: 150px;
-}
-
-#ascii {
-	text-align: left;
-}
-
 * { box-sizing: border-box; }
 .video-background {
   background: #000;
